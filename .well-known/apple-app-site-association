@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": "9RG48G4JN7.com.app.soundrise",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
