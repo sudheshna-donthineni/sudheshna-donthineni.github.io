@@ -1,3 +1,1 @@
-<Files "apple-app-site-association">
-ForceType 'application/json'
-</Files>
+<Files apples-app-site-association> Header set Content-type "application/pkcs7-mime" </Files>
